@@ -342,6 +342,8 @@
     
 - [ ] Fiche de renseignements pour l'orientation -> ==**A réaliser** au format `Markdown` et **à transmettre** par [mail]==
 
+- [ ] [PIX](https://pix.fr/){target=_blank} : Nouvelles modalités pour le bac...
+
 <!-- LISTE DES DOCUMENTS A PREVOIR
 
 •	[ ] Cartes de self dans le casier du PP
