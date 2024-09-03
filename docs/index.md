@@ -273,21 +273,30 @@
 === "TRAVAIL À FAIRE"
 
     - Poursuivre tous les travaux engagés...
+
+- **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-Un_BN_pour_la_communication_en_reseau.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){target=_blank} ;
+
+    [:fontawesome-solid-download: Télécharger le notebook : Network-Un_BN_pour_la_communication_en_reseau.ipynb)](https://ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){ .md-button .md-button--primary } 
+
+==**Créer** un dépot partagé pour [votre projet sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/), puis, en appliquant une [démarche agile](./fete_de_la_science/#demarche), **initier** une TODO liste et se répartir les tâches.==
+
+
+-->
 ***
-## Séances SI-NSI des 06 et 08/09
+## Séance SI-NSI du 04/09
 
 === "CONTENU DE SÉANCE"
 
-    - Projets, objectif ["Fête de la science"](./fete_de_la_science) mi-octobre... -> ==**Créer** un dépot partagé pour [votre projet sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/), puis, en appliquant une [démarche agile](./fete_de_la_science/#demarche), **initier** une TODO liste et se répartir les tâches.==
+    - Présentation du fonctionnement...
 
-    - **Découvrir** le fonctionnement des réseaux informatiques par la pratique : [Network-Un_BN_pour_la_communication_en_reseau.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){target=_blank} ;
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre... -> ==Réflexion collective en mode "brainstorming" pour trouver des pistes de médiation scientifique de préférence en lien avec le thème retenu==
 
-    [:fontawesome-solid-download: Télécharger le notebook : Network-Un_BN_pour_la_communication_en_reseau.ipynb)](https://ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){ .md-button .md-button--primary } 
+    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
 
 === "TRAVAIL À FAIRE"
 
     - Poursuivre les travaux engagés...
--->
+
 
 ## Vie de classe du 02/09
 
