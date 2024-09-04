@@ -9,9 +9,14 @@ En tant qu'élèves de terminale SI et NSI vous participerez également à cet �
 
 On va essayer de coller avec le thème retenu pour la Fête de la science : [ l'affiche ](./pdf/Affiche_fds.pdf){target=_blank .md-button }
 
+Une première scéance de brainstorming a dégagé quatre domaines à étudier :
 
-==Votre première mission de projet (sprint) sera donc de construire une médiation scientifique s'appuyant sur les sujets de vos projets respectifs afin de les présenter...==
+- l'élévation du niveau de la mer (Ambre, Ivan et Anaël) ;
+- la pollution plastique des océans (Noah, Rywan et Théophile) ;
+- les communications en mer (Louise, Loïc et Nathan);
+- les énergies en mer (Louis, Eliott et Pierre-Alain)...
 
+==Votre première mission de projet (sprint) sera donc de construire une médiation scientifique s'appuyant sur les sujets de vos projets respectifs afin de les présenter à des collégiens de quatrième...==
 
 ## Démarche :
 

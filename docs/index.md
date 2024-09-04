@@ -282,6 +282,32 @@
 
 
 -->
+
+***
+## Séance SI-NSI du 05/09
+
+=== "CONTENU DE SÉANCE"
+
+    - Projets, objectif ["Fête de la science"](./fete_de_la_science) le 7 octobre...
+    
+    ???+ abstract ""
+        
+        Organisés en équipages de projet autour des quatre domaines d'études résultants de votre séance de brainstorming :
+
+        - l'élévation du niveau de la mer (Ambre, Ivan et Anaël) ;
+        - la pollution plastique des océans (Noah, Rywan et Théophile) ;
+        - les communications en mer (Louise, Loïc et Nathan);
+        - les énergies en mer (Louis, Eliott et Pierre-Alain)...
+
+        **faire** des recherches documentaires afin de **préciser** vos sujets respectifs et **initier** la production de votre médiation scientifique à destination de collégiens de quatrième en listant vos "User Strories"...
+
+    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre les travaux engagés...
+
+
 ***
 ## Séance SI-NSI du 04/09
 
