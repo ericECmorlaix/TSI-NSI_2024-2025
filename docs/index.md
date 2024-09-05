@@ -298,8 +298,10 @@
         - la pollution plastique des océans (Noah, Rywan et Théophile) ;
         - les communications en mer (Louise, Loïc et Nathan);
         - les énergies en mer (Louis, Eliott et Pierre-Alain)...
-
-        **faire** des recherches documentaires afin de **préciser** vos sujets respectifs et **initier** la production de votre médiation scientifique à destination de collégiens de quatrième en listant vos "User Strories"...
+        
+        > - **Créer** un dépot partagé pour [votre projet sur GitHub](https://ericecmorlaix.github.io/adn-Tutoriel_lab_si/IDE/GitHub/){target=_blank} ;
+        > - **Faire** des recherches documentaires afin de **préciser** vos sujets respectifs ;
+        > - **Initier** la production de votre médiation scientifique à destination de collégiens de quatrième en listant vos tâches dans une TODO liste en mode [agile](./fete_de_la_science/#demarche)...
 
     - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
 
