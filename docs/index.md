@@ -276,6 +276,11 @@
 
 -->
 
+***
+
+## Vie de classe du 02/09
+
+    - [Orientation](./orientation)
 
 ***
 ## Séance SI-NSI du 12/09

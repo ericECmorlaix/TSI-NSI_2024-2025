@@ -23,7 +23,7 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - Accueil : index.md
-  # - Orientation : orientation.md
+  - Orientation : orientation.md
   - Projets :
       - Village des sciences : fete_de_la_science.md
       # - Mon projet sur GitHub : github.md
