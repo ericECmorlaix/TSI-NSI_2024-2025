@@ -104,11 +104,11 @@ Sur le site de [Cap avenir](https://www.univ-brest.fr/cap-avenir/){target=_blank
 
 En cliquant dessus, vous pouvez accéder à toutes sortes d'informations dont des formulaires d'inscription à des immersion à l'université ou en IUT et des formulaires d'inscription pour Insta fac qui permet d'aller rencontrer des enseignants du supérieur le mercredi après-midi.
 > Pour le moment, les inscriptions ne sont pas ouvertes mais le seront bientôt... 
-
+-->
 ## Autres
 
-- MOOC orientation : [https://www.mooc-orientation.fr/](https://www.mooc-orientation.fr/){target=_blank} ;
+- MOOC orientation : <https://www.fun-mooc.fr/fr/>{target=_blank} ;
 - [TROUVE TA VOIE AVEC THOTIS !](https://thotismedia.com/){target=_blank} ;
-- [MesServices.etudiant.gouv.fr](https://www.messervices.etudiant.gouv.fr/envole/) ;
+- Dossier Social Etudiant : [MesServices.etudiant.gouv.fr](https://www.messervices.etudiant.gouv.fr/envole/) ; 
 - [https://ideo.bretagne.bzh/](https://ideo.bretagne.bzh/){target=_blank} ;
-- ... -->
+- ... 

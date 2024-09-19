@@ -259,24 +259,11 @@
 
     - Poursuivre tous les travaux engagés... 
 
-***
 
-
-## Séances SI-NSI des 13 et 15/09
-
-=== "CONTENU DE SÉANCE"
-
-    - **Poursuivre** la découverte du fonctionnement des réseaux informatiques par la pratique : [Network-Un_BN_pour_la_communication_en_reseau.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){target=_blank} ;
-
-    [:fontawesome-solid-download: Télécharger le notebook : Network-Un_BN_pour_la_communication_en_reseau.ipynb)](https://ericecmorlaix.github.io/TSI-NSI_2023-2024/CR/Network-Un_BN_pour_la_communication_en_reseau.ipynb){ .md-button .md-button--primary } 
-
-=== "TRAVAIL À FAIRE"
-
-    - Poursuivre tous les travaux engagés...
 
 -->
 ***
-## Séance SI-NSI du 18/09
+## Séance SI-NSI des 18 et 19/09
 
 === "CONTENU DE SÉANCE"
     
