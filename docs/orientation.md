@@ -77,6 +77,17 @@ Inscription au préalable obligatoire via un lien transmis la semaine qui préc�
 
 > La participation à au moins une visio par trimestre (1er et second) est demandée et sera notifiée sur le bulletin trimestriel dans une ligne Parcours Avenir.
 
+
+|Date|Formation|Intervenants|  
+|:--:|:-------:|:----------:|
+|07/10|PASS – Etudes de santé|Loeva Le Moullec (Brest) et Anna Le Borgne (Rennes)|
+|14/10|Licence de Droit|Mélanie Meyer ?|
+|04/11|BTS Commerce international|Marie Madec|
+|18/11|Ecole d’architecture de Rennes|Etudiants de l’asso Archibalisation| 
+
+
+
+
 <!-- 
 ![Forum_En_Ligne.gif](./assets/ForumEnLigne.gif){.center}
 
