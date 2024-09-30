@@ -263,6 +263,15 @@
 
 -->
 ***
+## Vie de classe du 01/10
+
+- [Orientation](./orientation), demandez le programme :
+    - Lancement du forum en ligne le lundi 07/10 (PASS pour cette première session), _mail d'inscription avenir mercredi ou jeudi_.
+    - Le mardi 15/10 sur l'heure de classe : des représentants de l'armée viendront présenter les formations qu'ils offrent aux futurs bacheliers, _mail d'inscription avenir..._
+
+- **Faire** la campagne de rentrée sur [PIX avec le code `MDTWKP783`](https://app.pix.fr/campagnes/MDTWKP783){target=_blank} ;
+
+***
 ## Séance SI-NSI des 18 et 19/09
 
 === "CONTENU DE SÉANCE"
