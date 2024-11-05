@@ -263,6 +263,17 @@
 
 -->
 ***
+## Séance SI-NSI des 06 et 07/11
+
+=== "CONTENU DE SÉANCE"
+    
+    - Activités par spécialité [SI](https://ericecmorlaix.github.io/TSI_2024-2025/){target=_blank} ou [NSI](https://ericecmorlaix.github.io/TNSI_2024-2025/){target=_blank}.
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre les travaux engagés...
+
+***
 ## Vie de classe du 01/10
 
 - [Orientation](./orientation), demandez le programme :
