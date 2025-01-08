@@ -16,6 +16,8 @@ Ce sont les fichiers à télécharger dans votre OneDrive, à partager en lectur
 
 ## ParcourSup
 
+[Diaporama de présentation ParcourSup 2025](../pdf/PPT-_Parcoursup-2025.pdf){target=_blank}
+
 Site : [https://www.parcoursup.fr/](https://www.parcoursup.fr/){target=_blank}
 
 ### Utiliser le moteur de recherche de formations :

@@ -263,6 +263,12 @@
 
 -->
 ***
+## Vie de classe du 07/01
+
+- [Orientation - Diaporama de présentation ParcourSup 2025](./pdf/PPT-_Parcoursup-2025.pdf){target=_blank}
+
+    
+***
 ## Séance SI-NSI des 06 et 07/11
 
 === "CONTENU DE SÉANCE"
